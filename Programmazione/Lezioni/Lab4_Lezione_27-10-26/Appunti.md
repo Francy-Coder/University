@@ -1,8 +1,6 @@
 # Riepilogo Lezione
 - Slide: [Lezione 4 - Cicli annidati, Stringhe/Rune](https://github.com/LabProgrammazione1/Lab_2026-27/blob/main/Lezione_4/Lab4.pdf)
 
-# Riepilogo Lezione 4 - Cicli annidati, Stringhe e Rune
-
 ## 1. Cicli annidati (Cicli annidati - 1)
 Un **ciclo annidato** è un `for` scritto dentro un altro `for`: a ogni iterazione del ciclo **esterno**, il ciclo **interno** viene eseguito **per intero**. Il numero totale di esecuzioni del corpo è il **prodotto** delle iterazioni dei due cicli.
 
