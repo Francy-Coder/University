@@ -1,2 +1,2 @@
 # Info
-Repository contenente materiale e progetti per i corsi universitari di Programmazione I e Architettura degli elaboratori I
+Repository containing material and projects for the university courses Programming I and Computer Architecture I.
