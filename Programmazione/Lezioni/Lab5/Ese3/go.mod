@@ -1,0 +1,3 @@
+module NumeriPrimi
+
+go 1.24.4
