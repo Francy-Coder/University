@@ -1,0 +1,7 @@
+v 4
+file . "d_ff_fe_sync_reset_tb.vhdl" "53820623e1e2a76836cc034d85d4858f3fc4321a" "20261109135344.184":
+  entity d_ff_fe_sync_reset_tb at 1( 0) + 0 on 15;
+  architecture behavior of d_ff_fe_sync_reset_tb at 7( 104) + 0 on 16;
+file . "d_ff_fe_sync_reset.vhdl" "0300ddf3703165846fa38ff3993dc40f934aacef" "20261109135331.747":
+  entity d_ff_fe_sync_reset at 1( 0) + 0 on 13;
+  architecture rtl of d_ff_fe_sync_reset at 13( 239) + 0 on 14;
